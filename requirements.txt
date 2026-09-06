@@ -1,0 +1,10 @@
+# Official PNPL package, pinned for reproducibility
+git+https://github.com/neural-processing-lab/pnpl.git@f7ef65d073587d9a0c64fdd2c84b10b562d679a7
+
+jupyterlab
+ipykernel
+pytest
+scikit-learn
+matplotlib
+tqdm
+pyyaml
